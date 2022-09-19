@@ -1,0 +1,135 @@
+body {
+    background: #28273E;
+}
+#img1 {
+    padding-left: 9px;
+    width: 25%;
+}
+h6 {
+    color: #FF7228;
+}
+#oo {
+    vertical-align: middle;
+    border-style: none;
+    padding-left: 96px;
+}
+a.nav-link {
+    color: white;
+    margin: 15px;
+}
+ul.navbar-nav.mr-auto.mt-2.mt-lg-0 {
+    margin-left: 18%;
+}
+button.btn.btn-outline-success {
+    background: #5A5A8F;
+    color: white;
+    border-color: #5A5A8F;
+}
+form.form-inline {
+    padding-right: 14%;
+}
+nav.navbar.navbar-expand-lg.navbar {
+    margin-bottom: 65px;
+}
+h2 {
+    text-align: center;
+    color: white;
+}
+p {
+    color: white;
+}
+h5 {
+    color: #FF7228;
+}
+#con {
+
+    margin-bottom: 100px;
+}
+.mb-4 {
+    margin-bottom: 1.5rem !important;
+}
+#card1{
+    background-color: #28273E;
+   
+}
+.card-title{
+    color: white;
+}
+.card-text{
+    color: #979797;
+}
+#row1 {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: 100px;
+    margin-bottom: 33px;
+    /* margin: 10px; */
+}
+.login {
+    height: 100vh;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.account-login {
+    width: 500px;
+}
+
+.form-control:focus {
+    box-shadow: none;
+}
+
+p a {
+    padding-left: 2px;
+}
+.login-form input {
+    width: 100%;
+    position: relative;
+    border-bottom: 1px solid #707070;
+    padding: 0;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    box-shadow: none;
+    height: 63px;
+    border-radius: 0px;
+    background-color: #28273E;
+}
+.login-form input:hover{
+    background-color: #28273E;
+    border-bottom: 1px solid #FF7228;
+}
+.login-form {
+    float: left;
+    width: 100%;
+    padding: 40px;
+}
+button.btn {
+    width: 100%;
+    font-size: 20px;
+    padding: 11px;
+    color: #fff;
+    border: 0px;
+    margin: 10px 0px 20px;
+    background: -webkit-linear-gradient(right,#A463A3 , #C76974, #FF7228, #772900);
+}
+
+.btn:hover {
+    color: #fff;
+    opacity: 0.8;
+}
+p {
+    float: left;
+    width: 100%;
+    text-align: center;
+    font-size: 14px;
+}
+div#group {
+    margin-left: 64px;
+}
